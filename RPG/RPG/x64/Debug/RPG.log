@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\gener\source\repos\RPG\RPG\Player.h(8,23): warning C4584: 'Player': base-class 'BaseStats' is already a base-class of 'Role'
+C:\Users\gener\source\repos\RPG\RPG\BaseStats.h(2): message : see declaration of 'BaseStats'
+C:\Users\gener\source\repos\RPG\RPG\Role.h(11): message : see declaration of 'Role'
+Source.obj : error LNK2019: unresolved external symbol "void __cdecl changeStats(void)" (?changeStats@@YAXXZ) referenced in function main
+C:\Users\gener\source\repos\RPG\x64\Debug\RPG.exe : fatal error LNK1120: 1 unresolved externals
